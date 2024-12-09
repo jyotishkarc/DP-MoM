@@ -1,1 +1,1 @@
-# DP-MoM
+# DP-MoM Clustering
